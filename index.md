@@ -139,7 +139,7 @@ sections:
           and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
-    section_id: contacts
+    section_id: contact
     title: Let's Get In Touch!
     text: >-
       Ready to start your next project with us? Give us a call or send us an email
